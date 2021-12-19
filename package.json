@@ -19,6 +19,7 @@
   "homepage": "https://github.com/denizen24/rxjs-ts-starter.git#readme",
   "dependencies": {
     "@types/karma": "3.0.2",
+    "axios": "^0.24.0",
     "rxjs": "6.5.1"
   },
   "devDependencies": {
